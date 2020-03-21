@@ -1,6 +1,53 @@
-﻿code;value
-Arizona;2
-California;3
-Arkansas;4
-Connecticut;5
-Hawaii;6
+﻿state;id;meanSent
+Alabama;1;0
+Alaska;2;1
+Arizona;4;2
+Arkansas;5;3
+California;6;4
+Colorado;8;5
+Connecticut;9;0
+Delaware;10;1
+District of Columbia;11;2
+Florida;12;3
+Georgia;13;-1
+Hawaii;15;2
+Idaho;16;-3
+Illinois;17;-4
+Indiana;18;0
+Iowa;19;1
+Kansas;20;2
+Kentucky;21;3
+Louisiana;22;4
+Maine;23;5
+Maryland;24;0
+Massachusetts;25;1
+Michigan;26;2
+Minnesota;27;3
+Mississippi;28;-1
+Missouri;29;2
+Montana;30;-3
+Nebraska;31;-4
+Nevada;32;0
+New Hampshire;33;1
+New Jersey;34;2
+New Mexico;35;3
+New York;36;4
+North Carolina;37;5
+North Dakota;38;0
+Ohio;39;1
+Oklahoma;40;2
+Oregon;41;3
+Pennsylvania;42;-1
+Rhode Island;44;2
+South Carolina;45;-3
+South Dakota;46;-4
+Tennessee;47;0
+Texas;48;1
+Utah;49;2
+Vermont;50;3
+Virginia;51;4
+Washington;53;5
+West Virginia;54;0
+Wisconsin;55;1
+Wyoming;56;2
+Puerto Rico;72;3
