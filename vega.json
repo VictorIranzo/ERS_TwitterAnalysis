@@ -8,8 +8,8 @@
     }
   },
   "spec": {
-    "width": 500,
-    "height": 300,
+    "width": 1000,
+    "height": 600,
     "data": {
       "url": "https://raw.githubusercontent.com/VictorIranzo/ERS_TwitterAnalysis/master/Data_Test.csv"
     },
