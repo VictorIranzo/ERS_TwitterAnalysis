@@ -1,53 +1,53 @@
 state,id,meanSent
-Alabama,1,1.0
-Alaska,2,0
-Arizona,3,0
-Arkansas,4,0
-California,5,2.3333333333333335
-Colorado,6,0
-Connecticut,7,0
-Delaware,8,0
-District of Columbia,9,0
-Florida,10,0.3333333333333333
-Georgia,11,-4.333333333333333
-Hawaii,12,0
-Idaho,13,2.0
-Illinois,14,0
-Indiana,15,0
-Iowa,16,0
-Kansas,17,0
-Kentucky,18,0
-Louisiana,19,0
-Maine,20,0
-Maryland,21,1.0
-Massachusetts,22,0
-Michigan,23,-2.0
-Minnesota,24,-1.0
-Mississippi,25,0
-Missouri,26,0
-Montana,27,0
-Nebraska,28,0
-Nevada,29,0
-New Hampshire,30,0
-New Jersey,31,2.0
-New Mexico,32,0
-New York,33,0.0
-North Carolina,34,0
-North Dakota,35,-3.0
-Ohio,36,-1.1666666666666667
-Oklahoma,37,4.0
-Oregon,38,2.0
-Pennsylvania,39,3.0
-Rhode Island,40,0
-South Carolina,41,0
-South Dakota,42,0
-Tennessee,43,0
-Texas,44,0.8333333333333334
-Utah,45,0
-Vermont,46,0
-Virginia,47,0
-Washington,48,0
-West Virginia,49,0
-Wisconsin,50,0
-Wyoming,51,0
-Puerto Rico,52,0
+Alabama,1,0
+Alaska,2,1
+Arizona,4,2
+Arkansas,5,3
+California,6,4
+Colorado,8,5.4
+Connecticut,9,0
+Delaware,10,1.1
+District of Columbia,11,2
+Florida,12,3
+Georgia,13,-1
+Hawaii,15,2
+Idaho,16,-3
+Illinois,17,-4
+Indiana,18,0
+Iowa,19,1
+Kansas,20,2
+Kentucky,21,3
+Louisiana,22,4
+Maine,23,5
+Maryland,24,0
+Massachusetts,25,1
+Michigan,26,2
+Minnesota,27,3
+Mississippi,28,-1
+Missouri,29,2
+Montana,30,-3
+Nebraska,31,-4
+Nevada,32,0
+New Hampshire,33,1
+New Jersey,34,2
+New Mexico,35,3
+New York,36,4
+North Carolina,37,5
+North Dakota,38,0
+Ohio,39,1
+Oklahoma,40,2
+Oregon,41,3
+Pennsylvania,42,-1
+Rhode Island,44,2
+South Carolina,45,-3
+South Dakota,46,-4
+Tennessee,47,0
+Texas,48,1
+Utah,49,2
+Vermont,50,3
+Virginia,51,4
+Washington,53,5
+West Virginia,54,0
+Wisconsin,55,1
+Wyoming,56,2
+Puerto Rico,72,3
