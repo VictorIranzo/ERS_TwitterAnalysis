@@ -25,7 +25,7 @@
     },
     {
       "data": {
-          "url": "https://raw.githubusercontent.com/VictorIranzo/ERS_TwitterAnalysis/master/outSpain.csv"
+          "url": "https://raw.githubusercontent.com/VictorIranzo/ERS_TwitterAnalysis/master/Entrega/outSpain.csv"
         },
         "mark": "circle",
         "encoding": {

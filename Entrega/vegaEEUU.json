@@ -11,7 +11,7 @@
     "width": 1000,
     "height": 600,
     "data": {
-      "url": "https://raw.githubusercontent.com/VictorIranzo/ERS_TwitterAnalysis/master/out.csv"
+      "url": "https://raw.githubusercontent.com/VictorIranzo/ERS_TwitterAnalysis/master/Entrega/out.csv"
     },
     "transform": [
       {
