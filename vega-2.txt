@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "the population per state, engineers per state, and hurricanes per state",
+  "repeat": {"row": ["meanSent"]},
+  "resolve": {
+    "scale": {
+      "color": "independent"
+    }
+  },
+  "spec": {
+    "width": 1000,
+    "height": 600,
+    "data": {
+      "url": "https://raw.githubusercontent.com/VictorIranzo/ERS_TwitterAnalysis/master/out.csv"
+    },
+    "transform": [
+      {
+        "lookup": "NAME",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/jbrambleDC/Twitter-NLPMaps/master/us_states.topo.json",
+            "format": {
+              "type": "topojson",
+              "feature": "us_states.geo"
+            }
+          },
+          "key": "state"
+        },
+        "as": "geo"
+      }
+    ],
+    "projection": {"type": "albersUsa"},
+    "mark": "geoshape",
+    "encoding": {
+      "shape": {
+        "field": "geo",
+        "type": "geojson"
+      },
+      "color": {
+        "field": {"repeat": "row"},
+        "type": "quantitative"
+      }
+    }
+  }
+}
